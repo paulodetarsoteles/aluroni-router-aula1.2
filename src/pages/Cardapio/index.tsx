@@ -1,5 +1,5 @@
 import { ReactComponent as Logo } from 'assets/logo.svg';
-import React, { useState } from 'react';
+import { useState } from 'react';
 import styles from './Cardapio.module.scss';
 import Buscador from './Buscador';
 import Filtros from './Filtros';
