@@ -3,7 +3,7 @@ export default function Inicio() {
     <section>
       <h3>Recomendações da Cozinhaa</h3>
       <div>
-
+        
       </div>
     </section>
   );
