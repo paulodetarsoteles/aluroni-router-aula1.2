@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Inicio from 'pages/Inicio';
+import Router from 'routes';
 import 'normalize.css';
 import './index.css';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Inicio />
+    <Router />
   </React.StrictMode>,
   document.getElementById('root')
 );
